@@ -1,0 +1,3 @@
+A project for cadcademy. Highliting what i've learnt in html and css...
+
+I have tried to build the struture in html and style only in the css file.
